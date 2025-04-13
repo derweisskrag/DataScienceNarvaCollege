@@ -1,0 +1,34 @@
+{
+    "buss": {
+        "number": 42,
+        "destination": "Tallinn"
+    },
+    "peatused": [
+        {
+            "aeg": "08:00",
+            "j\u00e4rjekord": 1,
+            "stop_name": "P\u00e4rnu mnt"
+        },
+        {
+            "aeg": "08:05",
+            "j\u00e4rjekord": 2,
+            "stop_name": "Kaubamaja"
+        },
+        {
+            "aeg": "08:10",
+            "j\u00e4rjekord": 3,
+            "stop_name": "Vabaduse v\u00e4ljak"
+        },
+        {
+            "aeg": "08:15",
+            "j\u00e4rjekord": 4,
+            "stop_name": "Tartu mnt"
+        },
+        {
+            "aeg": "08:20",
+            "j\u00e4rjekord": 5,
+            "stop_name": "J\u00e4rveotsa"
+        }
+    ],
+    "new_key": "new_value"
+}
